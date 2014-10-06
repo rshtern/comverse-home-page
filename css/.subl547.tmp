@@ -157,7 +157,7 @@ nav.mainmenu{
 	position:relative;
 }
 .mainmenu ul > li{
-	padding: 0 10px;
+	margin:0 10px;
 }
 .mainmenu ul > li > a{
 	font-size:0.9em;
@@ -497,7 +497,7 @@ li.efficiency{
 	background:url("../img/OPTIMIZATION_EFFICIENCY.png") center top no-repeat;
 }
 li.choice{
-	background:url("../img/pcc.png") center top no-repeat;
+	background:url("../img/PERSONALIZED_CHOICE_CONTROL.png") center top no-repeat;
 }
 li.transformation{
 	background:url("../img/BUSINESS_TRANSFORMATION.png") center top no-repeat;
@@ -519,7 +519,7 @@ li.efficiency:hover{
 	border-bottom:4px solid rgba(255,255,255,0.25);
 }
 li.choice:hover{
-	background:url("../img/pcc_hover.png") center top no-repeat;
+	background:url("../img/PERSONALIZED_CHOICE_CONTROL_hover.png") center top no-repeat;
 	border-bottom:4px solid rgba(255,255,255,0.25);
 }
 li.transformation:hover{
